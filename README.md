@@ -78,9 +78,9 @@ Tools Used: **SQL**
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinavcc01&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavcc01&layout=compact&theme=radical)
 
 ---
 
@@ -95,11 +95,11 @@ Tools Used: **SQL**
 
 # 📫 Connect With Me
 
-💻 GitHub: https://github.com/YOUR_USERNAME  
+💻 GitHub: https://github.com/Abhinavcc01
 
 🔗 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
 
-📧 Email: your_email@gmail.com  
+📧 Email: cabhinav057l@gmail.com  
 
 ---
 
