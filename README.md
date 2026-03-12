@@ -1,16 +1,106 @@
-## Hi there 👋
+# Hi, I'm Abhinav C 👋
 
-<!--
-**Abhinavcc01/Abhinavcc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Python | SQL | Machine Learning | Data Visualization**
 
-Here are some ideas to get you started:
+I am a passionate Data Analyst focused on transforming raw data into meaningful insights. I enjoy exploring datasets, identifying patterns, and building analytical solutions that support data-driven decision-making. My interests include data analytics, machine learning, and artificial intelligence. I continuously work on improving my analytical skills and building real-world projects using Python, SQL, and data visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Skills & Tools
+
+### Programming
+- Python  
+- SQL  
+
+### Libraries
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+
+### Tools
+- Excel  
+- Tableau  
+- Power BI  
+- Jupyter Notebook  
+
+### Concepts
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Machine Learning  
+
+---
+
+# 📊 Featured Projects
+
+## 🚨 911 Emergency Calls Analysis
+Analyzed emergency call data using Python to identify trends and patterns based on location, time, and call reasons.  
+Tools Used: **Python, Pandas, Matplotlib**
+
+---
+
+## 🛒 Ecommerce Purchases Data Analysis
+Explored customer purchasing behavior and transaction patterns using Python and Pandas to generate business insights.
+
+Tools Used: **Python, Pandas**
+
+---
+
+## 👨‍💼 Employee Attrition Prediction
+Developed a machine learning model to predict employee turnover using HR dataset and classification algorithms.
+
+Tools Used: **Python, Scikit-learn, Pandas**
+
+---
+
+## 🧮 Python GUI Calculator
+Developed a simple calculator application using Python Tkinter supporting basic arithmetic operations.
+
+Tools Used: **Python, Tkinter**
+
+---
+
+## 💳 Credit Risk Prediction System
+Built a machine learning classification system to evaluate customer credit risk using financial and demographic data.
+
+Tools Used: **Python, Machine Learning**
+
+---
+
+## 🍔 Store Preference Analysis
+SQL analytics project analyzing food ordering app data to understand customer ordering patterns and outlet performance.
+
+Tools Used: **SQL**
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+# 📚 Currently Learning
+
+- Machine Learning  
+- Artificial Intelligence  
+- Advanced Data Analytics  
+- Business Intelligence  
+
+---
+
+# 📫 Connect With Me
+
+💻 GitHub: https://github.com/YOUR_USERNAME  
+
+🔗 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+
+📧 Email: your_email@gmail.com  
+
+---
+
+⭐ *Feel free to explore my repositories and projects!*
